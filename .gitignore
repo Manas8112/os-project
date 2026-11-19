@@ -1,0 +1,13 @@
+*.o
+*.d
+*.asm
+*.sym
+*.img
+*.zip
+xv6_fuse_project0/xv6_fuse
+xv6_fuse_project0/xv6_fsck
+xv6_fuse_project0/mnt/
+xv6-riscv/kernel/kernel
+xv6-riscv/mkfs/mkfs
+xv6-riscv/user/_*
+xv6-riscv/user/usys.S
